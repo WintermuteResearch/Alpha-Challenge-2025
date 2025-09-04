@@ -12,7 +12,7 @@ Each coding task has a dedicated test file, containing three functions:
 - `test_Solution()`, where your solution for the task will go. This should include contract deployments and calls required for reaching the intended end state.
 - `checkSolve()`, which checks that the expected end state has been reached. This will usually check for a balance in a token for your address, but may also include checks for intended contract state.
 
-For each task, the test command should result in a PASS for the `test_Solution()` case, and a message congratulating on the solve will be logged to the console.
+For each task, the test command should result in a PASS for the `test_Solution()` case, and a message congratulating on the solve will be logged to the console. To use your own address and RPC URL for the tasks, change the values in `.env` in the challenge directory.
 
 ## Rules
 

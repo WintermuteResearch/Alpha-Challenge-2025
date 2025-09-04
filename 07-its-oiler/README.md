@@ -9,3 +9,5 @@ Withdraw as much as you can from Euler markets with supply still left in them. W
 *UPD: `hklst4r` ended with 5M USDC, who can save more?*
 
 *UPD 2: `tonyke` ended with 6.17M USDC, is it even possible to save more?*
+
+Run the test case with `forge test --match-test test_Solution -vv`
