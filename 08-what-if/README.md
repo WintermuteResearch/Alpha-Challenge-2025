@@ -7,3 +7,5 @@ You don’t have any capital at the moment, but you think you can find a way to 
 *We ended with 85M USDC in this hardly imaginable situation, let us know if you beat it.*
 
 *UPD: `twxia` ended with 88.8M USDC, who can save more?*
+
+Run the test case with `forge test --match-test test_Solution -vv`
