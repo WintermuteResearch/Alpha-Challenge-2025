@@ -14,6 +14,9 @@ Each coding task has a dedicated test file, containing three functions:
 
 For each task, the test command should result in a PASS for the `test_Solution()` case, and a message congratulating on the solve will be logged to the console. To use your own address and RPC URL for the tasks, change the values in `.env` in the challenge directory.
 
+## Write-ups
+- [frodan](https://github.com/Frodan/wintermute-alpha-2025-writeups)
+
 ## Rules
 
 ### Restrictions
