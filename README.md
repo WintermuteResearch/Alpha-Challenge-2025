@@ -17,6 +17,7 @@ For each task, the test command should result in a PASS for the `test_Solution()
 ## Write-ups
 - [frodan](https://github.com/Frodan/wintermute-alpha-2025-writeups)
 - [dhruv](https://0xdhruv.me/posts/wintermute-alpha-challenge-25)
+- [Kitryn](https://github.com/Kitryn/wintermute_2025_alpha_challenge_writeup)
 
 ## Rules
 
