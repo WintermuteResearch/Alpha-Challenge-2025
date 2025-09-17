@@ -18,6 +18,8 @@ For each task, the test command should result in a PASS for the `test_Solution()
 - [frodan](https://github.com/Frodan/wintermute-alpha-2025-writeups)
 - [dhruv](https://0xdhruv.me/posts/wintermute-alpha-challenge-25)
 - [Kitryn](https://github.com/Kitryn/wintermute_2025_alpha_challenge_writeup)
+- [0xTyche](https://github.com/0xTyche/Wintermute-Alpha-Challenge-2025-Solution)
+- [yeguclu](https://github.com/yeguclu/wintermute-alpha-2025)
 
 ## Rules
 
